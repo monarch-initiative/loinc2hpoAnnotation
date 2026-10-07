@@ -365,6 +365,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 1558-6	Qn	L	HP:0001943	.	JGM:lccarmody[2018-09-17]	.
 1558-6	Qn	N	HP:0011015	.	JGM:lccarmody[2018-09-17]	.
 1558-6	Qn	H	HP:0003074	.	JGM:lccarmody[2018-09-17]	.
+1573-5	Qn	H	HP:0008283	.	UNC:kschaper[2026-10-06]	BDC priority measurement; follows 10833-2/13608-5 insulin series; H uses Fasting hyperinsulinemia (12h fast); N uses HP:0040214 (replacement of obsolete HP:0040215)
+1573-5	Qn	L	HP:0040216	.	UNC:kschaper[2026-10-06]	.
+1573-5	Qn	N	HP:0040214	.	UNC:kschaper[2026-10-06]	.
 1588-3	Qn	L	HP:0030344	.	HPO:nvasilevsky[2018-12-18]	.
 1588-3	Qn	N	HP:0030345	.	HPO:nvasilevsky[2018-12-18]	.
 1588-3	Qn	H	HP:0011969	.	HPO:nvasilevsky[2018-12-18]	.
@@ -913,6 +916,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 3040-3	Qn	L	HP:0031209	.	HP:probinson[2021-11-07]	.
 3040-3	Qn	N	HP:0033477	.	HP:probinson[2021-11-07]	.
 3040-3	Qn	H	HP:0033478	.	HP:probinson[2021-11-07]	.
+3048-6	Qn	H	HP:0002155	.	UNC:kschaper[2026-10-06]	BDC priority measurement; fasting triglyceride; follows 2571-8 (full trio; 1644-4 12h-fasting precedent agrees on H)
+3048-6	Qn	L	HP:0012153	.	UNC:kschaper[2026-10-06]	.
+3048-6	Qn	N	HP:0003119	.	UNC:kschaper[2026-10-06]	.
 3051-0	Qn	L	HP:0031507	.	JAX:azhang[2019-01-21]	.
 3051-0	Qn	N	HP:0031505	.	JAX:azhang[2019-01-21]	.
 3051-0	Qn	H	HP:0031506	.	JAX:azhang[2019-01-21]	.
@@ -921,6 +927,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 3053-6	Qn	H	HP:0011788	.	HPO:nvasilevsky[2019-05-24]	.
 3069-2	Ord	NEG	HP:0500134	.	UCD:tjcallahan[2019-02-23]	.
 3069-2	Ord	POS	HP:0500134	.	UCD:tjcallahan[2019-02-23]	.
+3074-2	Qn	H	HP:6000239	.	UNC:kschaper[2026-10-06]	BDC priority measurement; TNF-alpha in serum/plasma; HP has elevated term only; term added to HPO after 2024-01-16
+3074-2	Qn	N	HP:6000239	.	UNC:kschaper[2026-10-06]	.
 3079-1	Qn	L	HP:0500133	.	UCD:tjcallahan[2019-02-23]	.
 3079-1	Qn	N	HP:0010917	.	UCD:tjcallahan[2019-02-23]	.
 3079-1	Qn	H	HP:0003231	.	UCD:tjcallahan[2019-02-23]	.
@@ -1017,6 +1025,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 3397-7	Ord	POS	HP:0500108	.	JGM:lccarmody[2018-09-17]	.
 3427-2	Ord	NEG	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 3427-2	Ord	POS	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
+3695-4	Qn	H	HP:0000842	.	UNC:kschaper[2026-10-06]	BDC priority measurement; follows 20448-7 (insulin units/vol, same specimen); N uses HP:0040214 (replacement of obsolete HP:0040215)
+3695-4	Qn	L	HP:0040216	.	UNC:kschaper[2026-10-06]	.
+3695-4	Qn	N	HP:0040214	.	UNC:kschaper[2026-10-06]	.
 3771-3	Ord	NEG	HP:0410207	.	HPO:nvasilevsky[2018-09-14]	.
 3771-3	Ord	POS	HP:0410207	.	HPO:nvasilevsky[2018-09-14]	.
 3772-1	Qn	N	HP:0410207	.	HPO:nvasilevsky[2018-09-14]	.
@@ -1836,6 +1847,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 8310-5	Qn	L	HP:0002045	.	JGM:lccarmody[2018-10-16]	.
 8310-5	Qn	N	HP:0004370	.	JGM:lccarmody[2018-10-16]	.
 8310-5	Qn	H	HP:0001945	.	JGM:lccarmody[2018-10-16]	.
+8432-7	Qn	H	HP:0033119	.	UNC:kschaper[2026-10-06]	BDC priority measurement; RV systolic pressure; HP definition names RVSP; no decreased term
+8432-7	Qn	N	HP:0033119	.	UNC:kschaper[2026-10-06]	.
 8453-3	Qn	L	HP:0500104	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-02-25]	.
 8453-3	Qn	N	HP:0030972	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-02-25]	.
 8453-3	Qn	H	HP:0005117	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-02-25]	.
@@ -1860,6 +1873,24 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 8480-6	Qn	L	HP:0500105	.	JGM:lccarmody[2018-10-16]	.
 8480-6	Qn	N	HP:0030972	.	JGM:lccarmody[2018-10-16]	.
 8480-6	Qn	H	HP:0004421	.	JGM:lccarmody[2018-10-16]	.
+8496-2	Qn	H	HP:0005117	.	UNC:kschaper[2026-10-06]	BDC priority measurement; brachial artery diastolic BP; follows 8462-4
+8496-2	Qn	L	HP:0500104	.	UNC:kschaper[2026-10-06]	.
+8496-2	Qn	N	HP:0030972	.	UNC:kschaper[2026-10-06]	.
+8508-4	Qn	H	HP:0004421	.	UNC:kschaper[2026-10-06]	BDC priority measurement; brachial artery systolic BP; follows 8480-6
+8508-4	Qn	L	HP:0500105	.	UNC:kschaper[2026-10-06]	.
+8508-4	Qn	N	HP:0030972	.	UNC:kschaper[2026-10-06]	.
+8579-5	Qn	L	HP:0004950	.	UNC:kschaper[2026-10-06]	BDC priority measurement; left posterior tibial/brachial systolic ratio = left ABI; see 77194-9
+8579-5	Qn	N	HP:0004950	.	UNC:kschaper[2026-10-06]	.
+8580-3	Qn	L	HP:0004950	.	UNC:kschaper[2026-10-06]	BDC priority measurement; right posterior tibial/brachial systolic ratio = right ABI; see 77194-9
+8580-3	Qn	N	HP:0004950	.	UNC:kschaper[2026-10-06]	.
+8581-1	Qn	L	HP:0004950	.	UNC:kschaper[2026-10-06]	BDC priority measurement; posterior tibial/brachial systolic ratio = ABI; see 77194-9
+8581-1	Qn	N	HP:0004950	.	UNC:kschaper[2026-10-06]	.
+8625-6	Qn	H	HP:0012248	.	UNC:kschaper[2026-10-06]	BDC priority measurement; PR interval; direct HP lookup
+8625-6	Qn	L	HP:0005165	.	UNC:kschaper[2026-10-06]	.
+8625-6	Qn	N	HP:0031593	.	UNC:kschaper[2026-10-06]	.
+8634-8	Qn	H	HP:0001657	.	UNC:kschaper[2026-10-06]	BDC priority measurement; QT interval (uncorrected); direct HP lookup; HP definitions are of the raw Q-to-T interval
+8634-8	Qn	L	HP:0012232	.	UNC:kschaper[2026-10-06]	.
+8634-8	Qn	N	HP:0031547	.	UNC:kschaper[2026-10-06]	.
 8867-4	Qn	L	HP:0001662	.	UCD:tjcallahan[2019-02-23]	.
 8867-4	Qn	N	HP:0011675	.	UCD:tjcallahan[2019-02-23]	.
 8867-4	Qn	H	HP:0001649	.	UCD:tjcallahan[2019-02-23]	.
@@ -1904,6 +1935,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 9828-5	Qn	H	HP:0410248	.	HPO:nvasilevsky[2018-10-12]	.
 9842-6	Qn	N	HP:0012615	.	HPO:nvasilevsky[2019-05-28]	.
 9842-6	Qn	H	HP:0012615	.	HPO:nvasilevsky[2019-05-28]	.
+10230-1	Qn	L	HP:0012664	.	UNC:kschaper[2026-10-06]	BDC priority measurement; LV ejection fraction; direct HP lookup, labels name LVEF explicitly
+10230-1	Qn	N	HP:0034314	.	UNC:kschaper[2026-10-06]	.
+10230-1	Qn	H	HP:0034313	.	UNC:kschaper[2026-10-06]	.
 10327-5	Qn	N	HP:0032017	.	JAX:azhang[2019-01-21]	.
 10327-5	Qn	H	HP:0032017	.	JAX:azhang[2019-01-21]	.
 10332-5	Qn	L	HP:0008163	.	HPO:nvasilevsky[2018-05-24]	.
@@ -2369,6 +2403,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 13609-3	Qn	L	HP:0040216	.	OHSU:JP[2018-09-19]	.
 13609-3	Qn	N	HP:0040215	.	OHSU:JP[2018-09-19]	.
 13609-3	Qn	H	HP:0000842	.	OHSU:JP[2018-09-19]	.
+13629-1	Qn	H	HP:6000374	.	UNC:kschaper[2026-10-06]	BDC priority measurement; IL-1beta in serum/plasma; HP has increased term only; term added to HPO after 2024-01-16
+13629-1	Qn	N	HP:6000374	.	UNC:kschaper[2026-10-06]	.
 13658-0	Ord	NEG	HP:0031890	.	HPO:nvasilevsky[2018-07-17]	.
 13658-0	Ord	POS	HP:0031890	.	HPO:nvasilevsky[2018-07-17]	.
 13663-0	Qn	N	HP:0031810	.	HPO:nvasilevsky[2018-05-08]	copied from: 16138-0 @original comment: copied from: 17853-3 @original comment: copied from: 17854-1
@@ -2435,6 +2471,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 13965-9	Qn	H	HP:0002160	.	JGM:lccarmody[2018-10-12]	.
 13966-7	Qn	N	HP:0003131	.	UCD:tjcallahan[2019-02-23]	.
 13966-7	Qn	H	HP:0003131	.	UCD:tjcallahan[2019-02-23]	.
+13967-5	Qn	L	HP:0031419	.	UNC:kschaper[2026-10-06]	BDC priority measurement; follows 2942-1 (SHBG mass conc) but uses the specific decreased term HP:0031419 for L; HPO has no increased SHBG term
+13967-5	Qn	N	HP:0031438	.	UNC:kschaper[2026-10-06]	.
 13969-1	Qn	N	HP:0040081	.	JGM:lccarmody[2018-09-17];JAX:azhang[2019-02-12]	.
 13969-1	Qn	H	HP:0032232	.	JGM:lccarmody[2018-09-17];JAX:azhang[2019-02-12]	.
 14045-9	Qn	N	HP:0002151	.	JGM:lccarmody[2018-10-16]	.
@@ -3198,6 +3236,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 17459-9	Qn	H	HP:0003613	.	OHSU:jpgourdine[2019-04-17]	.
 17464-9	Ord	NEG	HP:0410226	.	HPO:nvasilevsky[2018-10-08]	copied from: 15903-8 @original comment: copied from: 15592-9
 17464-9	Ord	POS	HP:0410226	.	HPO:nvasilevsky[2018-10-08]	copied from: 15903-8 @original comment: copied from: 15592-9
+17494-6	Qn	H	HP:0003527	.	UNC:kschaper[2026-10-06]	BDC priority measurement; urinary PGF2-alpha; HP:0003527 is defined generically as increased urinary prostaglandin
+17494-6	Qn	N	HP:0003527	.	UNC:kschaper[2026-10-06]	.
 17588-5	Ord	NEG	HP:0032235	.	JGM:azhang[2019-05-03]	.
 17588-5	Ord	POS	HP:0032235	.	JGM:azhang[2019-05-03]	.
 17678-4	Ord	NEG	HP:0003166	.	OHSU:JP[2018-09-19]	.
@@ -3470,14 +3510,26 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 19760-8	Qn	H	HP:0410224	.	HPO:nvasilevsky[2018-10-08]	.
 19870-5	Qn	L	HP:0032341	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 19870-5	Qn	N	HP:0032341	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
+19872-1	Qn	L	HP:0032341	.	UNC:kschaper[2026-10-06]	BDC priority measurement; FVC measured/predicted; follows 19870-5 (FVC volume); Reduced FVC is defined relative to predicted
+19872-1	Qn	N	HP:0032341	.	UNC:kschaper[2026-10-06]	.
 19875-4	Qn	L	HP:0032357	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 19875-4	Qn	N	HP:0032357	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 19877-0	Qn	L	HP:0032356	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 19877-0	Qn	N	HP:0032356	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
+19911-7	Qn	L	HP:0045051	.	UNC:kschaper[2026-10-06]	BDC priority measurement; DLCO; direct HP lookup
+19911-7	Qn	N	HP:0045049	.	UNC:kschaper[2026-10-06]	.
+19911-7	Qn	H	HP:0045050	.	UNC:kschaper[2026-10-06]	.
+19926-5	Qn	L	HP:0030877	.	UNC:kschaper[2026-10-06]	BDC priority measurement; FEV1/FVC ratio; direct HP lookup
+19926-5	Qn	N	HP:0030877	.	UNC:kschaper[2026-10-06]	.
+19927-3	Qn	L	HP:0032359	.	UNC:kschaper[2026-10-06]	BDC priority measurement; FEF 25-75% measured; follows 69971-0
+19927-3	Qn	N	HP:0032359	.	UNC:kschaper[2026-10-06]	.
 19935-6	Qn	L	HP:0032355	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 19935-6	Qn	N	HP:0032355	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 20150-9	Qn	L	HP:0032342	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 20150-9	Qn	N	HP:0032342	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
+20152-5	Qn	L	HP:0032342	.	UNC:kschaper[2026-10-06]	BDC priority measurement; FEV1 measured/predicted; follows 20150-9 (FEV1) for L/N; H added from direct lookup HP:0033350
+20152-5	Qn	N	HP:0032342	.	UNC:kschaper[2026-10-06]	.
+20152-5	Qn	H	HP:0033350	.	UNC:kschaper[2026-10-06]	.
 20155-8	Qn	L	HP:0032358	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 20155-8	Qn	N	HP:0032358	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 20405-7	Qn	N	HP:0031890	.	HPO:nvasilevsky[2018-07-17]	.
@@ -3785,6 +3837,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 24360-0	Qn	L	HP:0031851	.	HPO:nvasilevsky[2018-10-01]	.
 24360-0	Qn	N	HP:0031850	.	HPO:nvasilevsky[2018-10-01]	.
 24360-0	Qn	H	HP:0001899	.	HPO:nvasilevsky[2018-10-01]	.
+24373-3	Qn	L	HP:0012343	.	UNC:kschaper[2026-10-06]	BDC priority measurement; follows 2276-4 (serum ferritin)
+24373-3	Qn	N	HP:0040133	.	UNC:kschaper[2026-10-06]	.
+24373-3	Qn	H	HP:0003281	.	UNC:kschaper[2026-10-06]	.
 24389-9	Qn	L	HP:0008163	.	HPO:nvasilevsky[2018-05-24]	.
 24389-9	Qn	N	HP:0011731	.	HPO:nvasilevsky[2018-05-24]	.
 24389-9	Qn	H	HP:0003118	.	HPO:nvasilevsky[2018-05-24]	.
@@ -4198,6 +4253,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 26823-5	Qn	H	HP:0011969	.	HPO:nvasilevsky[2018-12-18]	.
 26843-3	Ord	NEG	HP:0003131	.	UCD:tjcallahan[2019-02-23]	.
 26843-3	Ord	POS	HP:0003131	.	UCD:tjcallahan[2019-02-23]	.
+26848-2	Qn	L	HP:0034163	.	UNC:kschaper[2026-10-06]	BDC priority measurement; IL-10 in serum or plasma
+26848-2	Qn	N	HP:0034162	.	UNC:kschaper[2026-10-06]	.
+26848-2	Qn	H	HP:0033199	.	UNC:kschaper[2026-10-06]	.
 26853-2	Qn	L	HP:0001943	.	HPO:nvasilevsky[2018-05-14]	.
 26853-2	Qn	N	HP:0011015	.	HPO:nvasilevsky[2018-05-14]	.
 26853-2	Qn	H	HP:0003074	.	HPO:nvasilevsky[2018-05-14]	.
@@ -4302,6 +4360,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 27976-0	Qn	H	HP:0002151	.	OHSU:JP[2018-07-30]	.
 28007-3	Qn	N	HP:0031890	.	HPO:nvasilevsky[2018-07-17]	.
 28007-3	Qn	H	HP:0031890	.	HPO:nvasilevsky[2018-07-17]	.
+28071-9	Qn	H	HP:0032240	.	UNC:kschaper[2026-10-06]	BDC priority measurement; E-selectin in blood; HP has elevated term only
+28071-9	Qn	N	HP:0032240	.	UNC:kschaper[2026-10-06]	.
 28541-1	Qn	N	HP:0032238	.	HP:probinson[2021-11-07]	.
 28545-2	Qn	N	HP:0003110	.	HPO:nvasilevsky[2018-10-01]	.
 28545-2	Qn	H	HP:0032068	.	HPO:nvasilevsky[2018-10-01]	.
@@ -4368,6 +4428,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 29412-4	Qn	L	HP:0001943	.	HPO:nvasilevsky[2018-05-14]	.
 29412-4	Qn	N	HP:0011015	.	HPO:nvasilevsky[2018-05-14]	.
 29412-4	Qn	H	HP:0003074	.	HPO:nvasilevsky[2018-05-14]	.
+29463-7	Qn	L	HP:0004325	.	UNC:kschaper[2026-10-06]	BDC priority measurement; body weight
+29463-7	Qn	N	HP:0004323	.	UNC:kschaper[2026-10-06]	.
+29463-7	Qn	H	HP:0004324	.	UNC:kschaper[2026-10-06]	.
 29572-5	Qn	L	HP:0500141	.	UCD:tjcallahan[2019-02-23]	.
 29572-5	Qn	N	HP:0010893	.	UCD:tjcallahan[2019-02-23]	.
 29572-5	Qn	H	HP:0004923	.	UCD:tjcallahan[2019-02-23]	.
@@ -4612,6 +4675,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 32215-6	Qn	H	HP:0031506	.	JGM:lccarmody[2018-10-16]	.
 32229-7	Qn	N	HP:0025630	.	JGM:azhang[2019-05-03]	.
 32229-7	Qn	H	HP:0025630	.	JGM:azhang[2019-05-03]	.
+32294-1	Qn	H	HP:0012592	.	UNC:kschaper[2026-10-06]	BDC priority measurement; urine albumin/creatinine ratio; follows 9318-7
+32294-1	Qn	N	HP:0012592	.	UNC:kschaper[2026-10-06]	.
 32319-6	Qn	L	HP:0001943	.	HPO:nvasilevsky[2018-05-14]	.
 32319-6	Qn	N	HP:0011015	.	HPO:nvasilevsky[2018-05-14]	.
 32319-6	Qn	H	HP:0003074	.	HPO:nvasilevsky[2018-05-14]	.
@@ -4745,6 +4810,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 33762-6	Qn	H	HP:0031185	.	UCD:tjcallahan[2019-02-23]	.
 33796-4	Qn	N	HP:0410171	.	HPO:nvasilevsky[2018-08-29]	.
 33796-4	Qn	H	HP:0410171	.	HPO:nvasilevsky[2018-08-29]	.
+33823-6	Qn	H	HP:0034447	.	UNC:kschaper[2026-10-06]	BDC priority measurement; IL-18 in serum/plasma; HP has increased term only
+33823-6	Qn	N	HP:0034447	.	UNC:kschaper[2026-10-06]	.
 33826-9	Qn	L	HP:0030344	.	HPO:nvasilevsky[2018-12-18]	.
 33826-9	Qn	N	HP:0030345	.	HPO:nvasilevsky[2018-12-18]	.
 33826-9	Qn	H	HP:0011969	.	HPO:nvasilevsky[2018-12-18]	.
@@ -4950,6 +5017,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 39088-0	Qn	H	HP:0410222	.	HPO:nvasilevsky[2018-10-04]	.
 39090-6	Qn	N	HP:0410222	.	HPO:nvasilevsky[2018-10-08]	.
 39090-6	Qn	H	HP:0410222	.	HPO:nvasilevsky[2018-10-08]	.
+39156-5	Qn	L	HP:0045082	.	UNC:kschaper[2026-10-06]	BDC priority measurement; BMI
+39156-5	Qn	N	HP:0045081	.	UNC:kschaper[2026-10-06]	.
+39156-5	Qn	H	HP:0031418	.	UNC:kschaper[2026-10-06]	.
 39459-3	Qn	L	HP:0032066	.	OHSU:JP[2018-09-24]	.
 39459-3	Qn	N	HP:0032065	.	OHSU:JP[2018-09-24]	.
 39459-3	Qn	H	HP:0032067	.	OHSU:JP[2018-09-24]	.
@@ -5017,6 +5087,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 40413-7	Ord	POS	HP:0410201	.	HPO:nvasilevsky[2018-07-20]	.
 40418-6	Ord	NEG	HP:0500098	.	HPO:nvasilevsky[2018-08-29]	.
 40418-6	Ord	POS	HP:0500098	.	HPO:nvasilevsky[2018-08-29]	.
+40443-4	Qn	L	HP:0001662	.	UNC:kschaper[2026-10-06]	BDC priority measurement; resting heart rate; follows 8867-4 exactly (system XXX is not a specimen ambiguity for heart rate); N term inherited from precedent
+40443-4	Qn	N	HP:0011675	.	UNC:kschaper[2026-10-06]	.
+40443-4	Qn	H	HP:0001649	.	UNC:kschaper[2026-10-06]	.
 40600-9	Ord	NEG	HP:0032377	.	OHSU:jpgourdine[2019-03-14]	.
 40600-9	Ord	POS	HP:0032377	.	OHSU:jpgourdine[2019-03-14]	.
 40665-2	Qn	L	HP:0001896	.	JGM:azhang[2018-07-24]	.
@@ -5098,6 +5171,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 42593-4	Qn	L	HP:0002901	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 42593-4	Qn	N	HP:0004363	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 42593-4	Qn	H	HP:0003072	.	JGM:azhang[2018-04-25]	copied from: 38230-9
+42637-9	Qn	N	HP:0031138	.	UNC:kschaper[2026-10-06]	BDC priority measurement; BNP (not NT-proBNP: HP:0031185 is a different analyte)
+42637-9	Qn	H	HP:0033534	.	UNC:kschaper[2026-10-06]	no HP term exists for decreased BNP
 42678-3	Qn	L	HP:0011935	.	HPO:nvasilevsky[2018-07-17]	.
 42678-3	Qn	N	HP:0012610	.	HPO:nvasilevsky[2018-07-17]	.
 42678-3	Qn	H	HP:0012611	.	HPO:nvasilevsky[2018-07-17]	.
@@ -6955,6 +7030,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 69972-8	Qn	N	HP:0032360	.	UCD:tjcallahan[2019-01-28];JGM:azhang[2019-05-03]	UCDenver survey results
 69973-6	Qn	L	HP:0032361	.	UCD:tjcallahan[2019-01-28];JGM:azhang[2019-05-03]	UCDenver survey results
 69973-6	Qn	N	HP:0032361	.	UCD:tjcallahan[2019-01-28];JGM:azhang[2019-05-03]	UCDenver survey results
+69990-0	Qn	H	HP:0010535	.	UNC:kschaper[2026-10-06]	BDC priority measurement; apnea-hypopnea index; AHI is the defining measurement of sleep apnea
+69990-0	Qn	N	HP:0010535	.	UNC:kschaper[2026-10-06]	.
 70138-3	Qn	N	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
 70138-3	Qn	H	HP:0500112	.	HPO:nvasilevsky[2018-12-18]	.
 70139-1	Ord	NEG	HP:0500109	.	HPO:nvasilevsky[2018-07-17]	.
@@ -7095,12 +7172,22 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 75883-9	Qn	H	HP:0025343	.	HPO:nvasilevsky[2018-12-18]	.
 75913-4	Qn	N	HP:0030057	.	HPO:nvasilevsky[2018-12-18]	.
 75913-4	Qn	H	HP:0025343	.	HPO:nvasilevsky[2018-12-18]	.
+75940-7	Qn	L	HP:0002900	.	UNC:kschaper[2026-10-06]	BDC priority measurement; follows 6298-4 (blood potassium)
+75940-7	Qn	N	HP:0011042	.	UNC:kschaper[2026-10-06]	.
+75940-7	Qn	H	HP:0002153	.	UNC:kschaper[2026-10-06]	.
+75988-6	Qn	H	HP:0033755	.	UNC:kschaper[2026-10-06]	BDC priority measurement; LV end-diastolic volume; direct HP lookup
+75988-6	Qn	L	HP:0033756	.	UNC:kschaper[2026-10-06]	.
+75988-6	Qn	N	HP:0033754	.	UNC:kschaper[2026-10-06]	.
 76399-5	Ord	NEG	HP:0410173	.	HPO:nvasilevsky[2018-05-18]	.
 76399-5	Ord	POS	HP:0410173	.	HPO:nvasilevsky[2018-05-18]	.
+76401-9	Qn	H	HP:0012592	.	UNC:kschaper[2026-10-06]	BDC priority measurement; 24h urine albumin/creatinine ratio; follows 9318-7
+76401-9	Qn	N	HP:0012592	.	UNC:kschaper[2026-10-06]	.
 76482-9	Qn	N	HP:0031798	.	OHSU:JP[2018-08-30]	.
 76482-9	Qn	H	HP:0031798	.	OHSU:JP[2018-08-30]	.
 76483-7	Qn	L	HP:0031799	.	OHSU:JP[2018-08-30]	.
 76483-7	Qn	N	HP:0031799	.	OHSU:JP[2018-08-30]	.
+76625-3	Qn	H	HP:0031964	.	UNC:kschaper[2026-10-06]	BDC priority measurement; ALT in blood; follows 77144-4 (serum, plasma or blood)
+76625-3	Qn	N	HP:0031964	.	UNC:kschaper[2026-10-06]	.
 76665-9	Qn	L	HP:0025457	.	HPO:nvasilevsky[2018-05-14]	.
 76665-9	Qn	N	HP:0025456	.	HPO:nvasilevsky[2018-05-14]	.
 76665-9	Qn	H	HP:0002922	.	HPO:nvasilevsky[2018-05-14]	.
@@ -7129,6 +7216,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 76688-1	Qn	H	HP:0032377	.	JGM:azhang[2019-05-03]	.
 77144-4	Qn	N	HP:0031964	.	JGM:lccarmody[2018-10-16]	.
 77144-4	Qn	H	HP:0031964	.	JGM:lccarmody[2018-10-16]	.
+77194-9	Qn	L	HP:0004950	.	UNC:kschaper[2026-10-06]	BDC priority measurement; ankle-brachial index; HP:0004950 definition explicitly quantifies by ABI <0.9; no term for non-compressible (>1.4)
+77194-9	Qn	N	HP:0004950	.	UNC:kschaper[2026-10-06]	.
 77610-4	Qn	L	HP:0030795	.	HPO:probinson[2018-05-19]	.
 77610-4	Qn	N	HP:0030794	.	HPO:probinson[2018-05-19]	.
 77610-4	Qn	H	HP:0030796	.	HPO:probinson[2018-05-19]	.
@@ -7146,6 +7235,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 77652-6	Qn	H	HP:0030796	.	HPO:probinson[2018-05-19]	.
 77740-9	Qn	N	HP:0410239	.	HPO:nvasilevsky[2018-10-12]	.
 77740-9	Qn	H	HP:0410239	.	HPO:nvasilevsky[2018-10-12]	.
+77903-3	Qn	L	HP:0033118	.	UNC:kschaper[2026-10-06]	BDC priority measurement; TAPSE; low TAPSE (<17 mm, ASE) indicates RV systolic dysfunction; HPO has only the parent Abnormal right ventricular function
+77903-3	Qn	N	HP:0033118	.	UNC:kschaper[2026-10-06]	.
 77939-7	Qn	L	HP:0002920	.	HPO:nvasilevsky[2018-07-18]	.
 77939-7	Qn	N	HP:0011043	.	HPO:nvasilevsky[2018-07-18]	.
 77939-7	Qn	H	HP:0003154	.	HPO:nvasilevsky[2018-07-18]	.
@@ -7172,6 +7263,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 79469-3	Qn	L	HP:0410198	.	HPO:nvasilevsky[2018-05-21]	.
 79469-3	Qn	N	HP:0410196	.	HPO:nvasilevsky[2018-05-21]	.
 79469-3	Qn	H	HP:0410197	.	HPO:nvasilevsky[2018-05-21]	.
+79982-5	Qn	H	HP:0031295	.	UNC:kschaper[2026-10-06]	BDC priority measurement; LA end-systolic volume index (LAVI); LA enlargement is defined by LAVI (ASE >34 mL/m2)
+79982-5	Qn	N	HP:0031295	.	UNC:kschaper[2026-10-06]	.
 80532-5	Qn	N	HP:0410207	.	HPO:nvasilevsky[2018-09-14]	.
 80532-5	Qn	H	HP:0410207	.	HPO:nvasilevsky[2018-09-14]	.
 80700-8	Qn	L	HP:0020113	.	JGM:azhang[2019-05-03]	.
@@ -7414,3 +7507,10 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 89540-9	Ord	POS	HP:0031810	.	HPO:nvasilevsky[2019-01-15]	copied from: 89541-7 @original comment: copied from: 63243-0
 89541-7	Ord	NEG	HP:0031810	.	HPO:nvasilevsky[2019-01-15]	copied from: 63243-0
 89541-7	Ord	POS	HP:0031810	.	HPO:nvasilevsky[2019-01-15]	copied from: 63243-0
+90566-1	Qn	H	HP:0010535	.	UNC:kschaper[2026-10-06]	BDC priority measurement; respiratory disturbance index; RDI >=5 is an AASM diagnostic criterion for sleep apnea
+90566-1	Qn	N	HP:0010535	.	UNC:kschaper[2026-10-06]	.
+103749-8	Qn	L	HP:0033760	.	UNC:kschaper[2026-10-06]	BDC priority measurement; peak VO2 on CPET is the clinical measurement of VO2max; direct HP lookup
+103749-8	Qn	N	HP:0033760	.	UNC:kschaper[2026-10-06]	.
+106620-8	Qn	H	HP:0030977	.	UNC:kschaper[2026-10-06]	BDC priority measurement; follows 3209-4 (same component, FVIII activity actual/normal in PPP; chromogenic vs coagulation method)
+106620-8	Qn	L	HP:0003125	.	UNC:kschaper[2026-10-06]	.
+106620-8	Qn	N	HP:0030976	.	UNC:kschaper[2026-10-06]	.
